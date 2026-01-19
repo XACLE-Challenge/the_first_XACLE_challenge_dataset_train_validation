@@ -1,4 +1,4 @@
-# The first XACLE challenge dataset
+# XACLE Challenge 2026 dataset training and validation set
 
 ## Contents
 
